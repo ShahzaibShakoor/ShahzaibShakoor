@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ShahzaibShakoor
+- 👀 I’m interested in MERN Stack Development
+- 🌱 I’m currently learning NodeJS
+- 😄 Pronouns: He/Him
